@@ -1,0 +1,2 @@
+ETH_URL=wss://eth-goerli.g.alchemy.com/v2/xu4WqKdcS2PXYFJmlCGbF7gJoAmA0X8p
+ETH_URL=wss://young-warmhearted-ensemble.matic-testnet.discover.quiknode.pro/f53cebdb6f756143e63fa0a44846f682def394df/
